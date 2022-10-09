@@ -1,0 +1,18 @@
+{
+  "name": "qw13-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ซื้อหวยบาทละ900✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ซื้อหวยบาทละ900",
+"หวยเว็บ",
+"vip lottovip",
+"หวยแทง24",
+"www.huaysod"
+],
+  "repository": "https://github.com/setteebet/qw13-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
